@@ -12,4 +12,4 @@ This project is a simple translator that reads a .txt file and attempts to outpu
      * Do translation in your terminal using command line
      
      # translate pypi documentation
-     * Read documentation (https://translate-python.readthedocs.io/en/latest/overview.html)
+     * Read documentation [translate](https://translate-python.readthedocs.io/en/latest/overview.html)
